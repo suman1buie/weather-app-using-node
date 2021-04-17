@@ -1,0 +1,19 @@
+*,
+html {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  background-color: aquamarine;
+}
+
+.conatiner-fluid {
+  padding: 3% 12%;
+}
+input {
+  border-top: none;
+  height: 40px;
+}
